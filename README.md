@@ -134,7 +134,4 @@ The pipeline is evaluated on the 200-profile labeled subset using **Stratified 5
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
